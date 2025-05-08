@@ -7,4 +7,4 @@ Python3. Intakes a directory where Google Chats are stored from a search warrant
 # Usage
 `googleChats.py <parentDirectory>`
  
- googleChats.xlsx will be created in the <parentDirectory> passed.
+ googleChats.xlsx will be created in the -parentDirectory- passed.
